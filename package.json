@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juanestuniga/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/juanestuniga/team-profile-generator#readme"
+  "homepage": "https://github.com/juanestuniga/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
