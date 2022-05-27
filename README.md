@@ -25,7 +25,7 @@
   open the team.html
   
   ## Usage 
-  ![Screenshot](assets/images/My Team Screenshot.png)
+  ![Screenshot](assets/images/screenshot.png)
   
   When node index is ran the application starts with prompts in command line. 
   
