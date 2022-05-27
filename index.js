@@ -1,4 +1,4 @@
-const App = require("./lib/App");
+var App = require("./lib/App");
 const inquirer = require("inquirer");
 
 // Initialize 
