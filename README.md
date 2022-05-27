@@ -26,6 +26,7 @@
   
   ## Usage 
   ![Screenshot](assets/images/screenshot.png)
+  ![gif](assets/images/gif.gif)
   
   When node index is ran the application starts with prompts in command line. 
   
